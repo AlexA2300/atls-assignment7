@@ -1,0 +1,17 @@
+h1,
+h2,
+strong {
+    color: purple;
+}
+
+p,
+em {
+    color: gray;
+}
+
+ul,
+ol {
+    border: 2px solid orange;
+    padding: 5px 20px;
+    border-radius: 4px;
+}
